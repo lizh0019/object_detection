@@ -1,0 +1,295 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "accessories"
+  label: 1
+  display_name: "accessories"
+}
+item {
+  name: "bag"
+  label: 2
+  display_name: "bag"
+}
+item {
+  name: "belt"
+  label: 3
+  display_name: "belt"
+}
+item {
+  name: "blazer"
+  label: 4
+  display_name: "blazer"
+}
+item {
+  name: "blouse"
+  label: 5
+  display_name: "blouse"
+}
+item {
+  name: "bodysuit"
+  label: 6
+  display_name: "bodysuit"
+}
+item {
+  name: "boots"
+  label: 7
+  display_name: "boots"
+}
+item {
+  name: "bra"
+  label: 8
+  display_name: "bra"
+}
+item {
+  name: "bracelet"
+  label: 9
+  display_name: "bracelet"
+}
+item {
+  name: "cape"
+  label: 10
+  display_name: "cape"
+}
+item {
+  name: "cardigan"
+  label: 11
+  display_name: "cardigan"
+}
+item {
+  name: "clogs"
+  label: 12
+  display_name: "clogs"
+}
+item {
+  name: "coat"
+  label: 13
+  display_name: "coat"
+}
+item {
+  name: "dress"
+  label: 14
+  display_name: "dress"
+}
+item {
+  name: "earrings"
+  label: 15
+  display_name: "earrings"
+}
+item {
+  name: "flats"
+  label: 16
+  display_name: "flats"
+}
+item {
+  name: "glasses"
+  label: 17
+  display_name: "glasses"
+}
+item {
+  name: "gloves"
+  label: 18
+  display_name: "gloves"
+}
+item {
+  name: "hair"
+  label: 19
+  display_name: "hair"
+}
+item {
+  name: "hat"
+  label: 20
+  display_name: "hat"
+}
+item {
+  name: "heels"
+  label: 21
+  display_name: "heels"
+}
+item {
+  name: "hoodie"
+  label: 22
+  display_name: "hoodie"
+}
+item {
+  name: "intimate"
+  label: 23
+  display_name: "intimate"
+}
+item {
+  name: "jacket"
+  label: 24
+  display_name: "jacket"
+}
+item {
+  name: "jeans"
+  label: 25
+  display_name: "jeans"
+}
+item {
+  name: "jumper"
+  label: 26
+  display_name: "jumper"
+}
+item {
+  name: "leggings"
+  label: 27
+  display_name: "leggings"
+}
+item {
+  name: "loafers"
+  label: 28
+  display_name: "loafers"
+}
+item {
+  name: "necklace"
+  label: 29
+  display_name: "necklace"
+}
+item {
+  name: "panties"
+  label: 30
+  display_name: "panties"
+}
+item {
+  name: "pants"
+  label: 31
+  display_name: "pants"
+}
+item {
+  name: "pumps"
+  label: 32
+  display_name: "pumps"
+}
+item {
+  name: "purse"
+  label: 33
+  display_name: "purse"
+}
+item {
+  name: "ring"
+  label: 34
+  display_name: "ring"
+}
+item {
+  name: "romper"
+  label: 35
+  display_name: "romper"
+}
+item {
+  name: "sandals"
+  label: 36
+  display_name: "sandals"
+}
+item {
+  name: "scarf"
+  label: 37
+  display_name: "scarf"
+}
+item {
+  name: "shirt"
+  label: 38
+  display_name: "shirt"
+}
+item {
+  name: "shoes"
+  label: 39
+  display_name: "shoes"
+}
+item {
+  name: "shorts"
+  label: 40
+  display_name: "shorts"
+}
+item {
+  name: "skin"
+  label: 41
+  display_name: "skin"
+}
+item {
+  name: "skirt"
+  label: 42
+  display_name: "skirt"
+}
+item {
+  name: "sneakers"
+  label: 43
+  display_name: "sneakers"
+}
+item {
+  name: "socks"
+  label: 44
+  display_name: "socks"
+}
+item {
+  name: "stockings"
+  label: 45
+  display_name: "stockings"
+}
+item {
+  name: "suit"
+  label: 46
+  display_name: "suit"
+}
+item {
+  name: "sunglasses"
+  label: 47
+  display_name: "sunglasses"
+}
+item {
+  name: "sweater"
+  label: 48
+  display_name: "sweater"
+}
+item {
+  name: "sweatshirt"
+  label: 49
+  display_name: "sweatshirt"
+}
+item {
+  name: "swimwear"
+  label: 50
+  display_name: "swimwear"
+}
+item {
+  name: "t-shirt"
+  label: 51
+  display_name: "t-shirt"
+}
+item {
+  name: "tie"
+  label: 52
+  display_name: "tie"
+}
+item {
+  name: "tights"
+  label: 53
+  display_name: "tights"
+}
+item {
+  name: "top"
+  label: 54
+  display_name: "top"
+}
+item {
+  name: "vest"
+  label: 55
+  display_name: "vest"
+}
+item {
+  name: "wallet"
+  label: 56
+  display_name: "wallet"
+}
+item {
+  name: "watch"
+  label: 57
+  display_name: "watch"
+}
+item {
+  name: "wedges"
+  label: 58
+  display_name: "wedges"
+}
